@@ -41,6 +41,16 @@ const deliveryItems = [
         title: "Biryani",
         cover: "https://b.zmtcdn.com/data/dish_images/2a24c5264606bd78622267d28a3726821634805216.png"
     },
+    {
+        id: 8,
+        title: "Biryani",
+        cover: "https://b.zmtcdn.com/data/dish_images/2a24c5264606bd78622267d28a3726821634805216.png"
+    },
+    {
+        id: 9,
+        title: "Biryani",
+        cover: "https://b.zmtcdn.com/data/dish_images/2a24c5264606bd78622267d28a3726821634805216.png"
+    },
 ]
 
 const settings = {    
