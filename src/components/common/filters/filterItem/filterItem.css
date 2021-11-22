@@ -1,0 +1,14 @@
+.filterItem{
+    border: 1px solid var(--filters-border);
+    border-radius: 8px;
+    padding: 8px;
+    font-size: 14px;
+    color: var(--zomato-grey);
+    box-shadow: rgba(54, 54, 54, 0.06) 0px 1px 2px;
+    margin: 10px 10px 14px 0px;
+    background-color: var(--primary-bg);
+}
+
+.filter-name{
+    margin-left: 5px;
+}
